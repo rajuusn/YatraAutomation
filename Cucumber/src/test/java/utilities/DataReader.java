@@ -12,7 +12,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class DataReader {
 	
-	public static HashMap<String, String> storeValues = new HashMap();
+	//public static HashMap<String, String> storeValues = new HashMap();
 
 	public static List<HashMap<String, String>> data(String filepath, String sheetName) {
 		

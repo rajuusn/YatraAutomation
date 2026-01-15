@@ -18,7 +18,7 @@ plugin= {"pretty", "html:reports/myreport.html",
 		
 dryRun=false,    // checks mapping between scenario steps and step definition methods
 monochrome=true,    // to avoid junk characters in output
-publish=true)
+publish=true)// to publish the report in the cucumber server
 
 public class TestRunner {
 
