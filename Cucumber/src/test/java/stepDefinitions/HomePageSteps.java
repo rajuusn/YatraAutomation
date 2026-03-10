@@ -85,7 +85,7 @@ public class HomePageSteps {
         hp = new HomePage(BaseClass.getDriver());
         hp.username(email);
 		hp.password(pwd);
-		hp.clickButton();
+//		hp.clickButton();
         
 		arp=new AccountRegistrationPage(BaseClass.getDriver());
 		arp.dropdown();
