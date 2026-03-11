@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-10T22:31:40 IST" name="Default suite" finished-at="2026-03-10T22:32:08 IST" duration-ms="27681">
+    <groups>
+    </groups>
+    <test started-at="2026-03-10T22:31:40 IST" name="Default test" finished-at="2026-03-10T22:32:08 IST" duration-ms="27681">
+      <class name="com.yatra.automation.YatraAutomationScript">
+        <test-method signature="yatra()[pri:0, instance:com.yatra.automation.YatraAutomationScript@18a136ac]" started-at="2026-03-10T22:31:40 IST" name="yatra" finished-at="2026-03-10T22:32:08 IST" duration-ms="27539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yatra -->
+      </class> <!-- com.yatra.automation.YatraAutomationScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
